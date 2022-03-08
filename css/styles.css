@@ -1,5 +1,13 @@
+Head {}
+
+
 div {
     border: 10px groove grey;
     border-radius: 5px ;
     background-color: bisque;
 }
+
+.about-me {
+    background-color: grey;
+}
+
