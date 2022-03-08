@@ -1,5 +1,10 @@
-Head {}
+Head {
+    background-color: bisque;
+}
 
+Body {
+    background-color: bisque;
+}
 
 div {
     border: 10px groove grey;
